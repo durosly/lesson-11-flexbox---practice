@@ -4,12 +4,14 @@ body {
 .landing-page {
     height: 100vh;
     background-color: #BAE8E8;
+    padding: 30px;
 }
 
 .header {
-    padding: 30px;
     display: flex;
     justify-content: space-between;
+    border-bottom: 2px solid #272343;
+    padding-bottom: 15px;
 }
 
 /* .header hr {
